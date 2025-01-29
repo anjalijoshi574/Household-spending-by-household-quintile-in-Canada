@@ -8,7 +8,7 @@ library(patchwork)
 
 
 # Load the data
-data <- read.csv('C:/Users/anjal/Desktop/Ayush Data mining/11100223-eng/11100223.csv')
+data <- read.csv('C:/Users/anjal/Desktop/Data mining/11100223-eng/11100223.csv')
 
 # View data
 View(data)
